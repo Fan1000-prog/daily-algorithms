@@ -19,6 +19,5 @@ class Solution(object):
             else:
                 result.append('pop')
         return result
-
          
          
